@@ -19,5 +19,7 @@ public static void stars(){
 
 
 }
-
+public static void fourStar(){
+    System.out.println("   *****   ");
+}
 
